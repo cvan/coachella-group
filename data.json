@@ -1,0 +1,109 @@
+{
+  "schedule": {
+    "weekend_2": [
+        {
+          "name": "Dudu Tassa & the Kuwaitis",
+          "time_start": "12:00 PM",
+          "time_end": "12:35 PM",
+          "venue: "mojave"
+        },
+        {
+          "name": "Jose Galvan",
+          "time_start": "12:00 PM",
+          "time_end": "1:00 PM",
+          "venue": "sonora"
+        },
+        {
+          "name": "Rhonda INTL DJs",
+          "time_start": "12:00 PM",
+          "time_end": "2:00 PM",
+          "venue": "yuma"
+        },
+        {
+          "name": "thos",
+          "time_start": "12:25 PM",
+          "time_end": "1: 10 PM",
+          "venue": "sahara"
+        },
+        {
+          "name": "Kayves",
+          "time_start": "12:25 PM",
+          "time_end": "1:00 PM",
+          "venue": "gobi"
+        },
+        {
+          "name": "KINGSPRINGS",
+          "time_start": "1:00 PM",
+          "time_end": "2:15 PM",
+          "venue": "do_lab"
+        },
+        {
+          "name": "Tell Juan",
+          "time_start": "12:00 PM",
+          "time_end": "1:40 PM",
+          "venue": "sonora"
+        },
+        {
+          "name": "Zipper Club",
+          "time_start": "1:00 PM",
+          "time_end": "1:40 PM",
+          "venue": "mojave"
+        },
+        {
+          "name": "Jimbo Jenkins",
+          "time_start": "1:20 PM",
+          "time_end": "2:10 PM",
+          "venue": "sahara"
+        },
+        {
+          "name": "Klangstof",
+          "time_start": "1:25 PM",
+          "time_end": "2.05 PM",
+          "venue": "gobi"
+        },
+        {
+          "name": "Alison Swing",
+          "time_start": "2:00 PM",
+          "time_end": "3:30 PM",
+          "venue": "yuma"
+        }
+        {
+          "name": "Joseph",
+          "time_start": "2:00 PM",
+          "time_end": "2:40 PM",
+          "venue": "mojave"
+        },
+        {
+          "name": "Surfbort",
+          "time_start": "2:00 PM",
+          "time_end": "2:30 PM",
+          "venue": "sonora"
+        },
+        {
+          "name": "SNBRN",
+          "time_start": "2:10 PM",
+          "time_end": "3:00 PM",
+          "venue": "sahara"
+        },
+        {
+          "name": "Monte Booker",
+          "time_start": "2:15 PM",
+          "time_end": "3:00 PM",
+          "venue": "do_lab"
+        },
+        {
+          "name": "RecordSafari",
+          "time_start": "2:30 PM",
+          "time_end": "3:10 PM",
+          "venue": "coachella"
+        },
+        {
+          "name": "The Lennon Twigs",
+          "time_start": "2:30 PM",
+          "time_end": "3:10 PM",
+          "venue": "gobi"
+        }
+      ]
+    }
+  }
+}
